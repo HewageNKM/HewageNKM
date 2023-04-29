@@ -21,16 +21,16 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on my knowledge improvement project 😝 
   
 
-- 🌱🔭 I’m currently learning at [IJSE- Institute of Software Engineering](https://github.com/rishavanand/github-profilinator)  
+- 🌱🔭 I’m currently learning at [IJSE- Institute of Software Engineering](https://ijse.lk/)  
   
 
-- ❓Fun fact, One of the most famous software engineers is the creator of XML, Tim Bray.  
+- ❓Ask me: What ?  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: One of the most famous software engineers is the creator of XML, Tim Bray   
 
 
 </td><td valign="top" width="50%">
