@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Kawishika, Full-Stack Developer (Still Learning to One🤪) 👨‍💻 </div>  
   
 
