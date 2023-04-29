@@ -1,4 +1,4 @@
-### <div align="center">I'm Kawishika, Full-Stack Developer (Still Learning to One🤪) 👨‍💻 </div>  
+### <div align="center">I'm Kawishika, Full-Stack Developer (Still Learning 🤪) 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on my knowledge improvement project 😝  
