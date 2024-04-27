@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and AI**
 
-- 👨‍💻 All of my projects are available at [nadunkawishika.me](nadunkawishika.me)
+- 👨‍💻 All of my projects are available at [nadunkawishika.me](https://nadunkawishika.me/)
 
 - 💬 Ask me about **Spring Boot and React**
 
@@ -38,11 +38,11 @@
 
 ## Github Stats 
 
-<p align="left"> 
+<p align="center"> 
   <span>
       <img src="https://github-readme-stats.vercel.app/api?username=HewageNKM&show_icons=true&count_private=true&hide_border=true"/><
   </span>
 <span>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HewageNKM&" alt="HewageNKM<"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HewageNKM&" alt="HewageNKM<"/>
 </span>
 </p>
