@@ -45,7 +45,8 @@
 <span>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HewageNKM&" alt="HewageNKM<"/>
 </span>
-<span align="center">
+<br>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HewageNKM&show_icons=true&locale=en&layout=compact" alt="h" />
-</span>
+</div>
 </p>
