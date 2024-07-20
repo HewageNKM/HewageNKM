@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Python and AI**
+- 🌱 I’m currently learning **Mobile Application**
 
 - 👨‍💻 All of my projects are available at [nadunkawishika.me](https://nadunkawishika.me/)
 
