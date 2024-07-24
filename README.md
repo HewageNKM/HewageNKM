@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kawishikam@gmail.com**
 
-- ⚡ Fun fact **I think, I'm bit talkative**
+- ⚡ Fun fact **I think, I'm bit funny**
 
 <br/>  
 
