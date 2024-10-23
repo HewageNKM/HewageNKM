@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Mobile Applications**
 
-- 👨‍💻 All of my projects are available at [nadunkawishika.me](https://nadunkawishika.me/)
-
 - 💬 Ask me about **Spring Boot and React**
 
 - 📫 How to reach me **kawishikam@gmail.com**
